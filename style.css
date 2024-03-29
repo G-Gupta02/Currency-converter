@@ -83,16 +83,13 @@ body {
 
 .submit {
   display: flex;
-  justify-content: left;
-  padding-left: 6.5rem;
+  justify-content: center;
+  
   padding-top: 1rem;
 }
-#submit {
-  background-color: #7469b6;
-  color: white;
-}
+
 .message {
-  padding-left: 3rem;
+  padding-left: 10%;
   color: white;
 }
 
