@@ -1,8 +1,8 @@
 body {
-  background-color: #FBFADA;
+  background-color: #FBF3D5;
 }
 .container-fluid {
-  background-color: #12372A;
+  background-color: #EFBC9B;
   height: 5rem;
   font-size: 2rem;
   color: white;
@@ -19,18 +19,18 @@ body {
   margin-right: 3rem;
   margin-left: 3rem;
   border-radius: 1rem;
-  background-color: #436850;
+  background-color: #9CAFAA;
 }
 .name {
   display: flex;
   justify-content: center;
   font-size: 2rem;
-  color: white;
+  color: black;
 }
 .amount{
   display: flex;
   justify-content: center;
-  color: white;
+  color: black;
 }
 .grid {
   display: flex;
@@ -57,11 +57,11 @@ body {
 }
 
 .fromTop{
-  color: white;
+  color: black;
   font-size: large;
 }
 .toTop{
-  color: white;
+  color: black;
   font-size: large;
 }
 
@@ -90,7 +90,7 @@ body {
 
 .message {
   padding-left: 10%;
-  color: white;
+  color: black;
 }
 
 .fromTop, .toTop{
